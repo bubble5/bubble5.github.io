@@ -571,7 +571,7 @@ input[type='checkbox'] {
 /*****************/
 .header {
 	padding-top: 7rem;
-	background: linear-gradient(rgba(11, 2, 246, 0.8), rgba(2, 15, 249, 0.8)), url('../images/justice.jpg') center center no-repeat;
+	background: linear-gradient(rgba(101, 86, 1, 0.412), rgba(121, 111, 2, 0.511)), url('../images/justice.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
